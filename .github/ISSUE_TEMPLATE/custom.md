@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-As a [role]
-I need [function]
-So that [benefit]
+**As a** [role] <br>
+**I need** [function] <br>
+**So that** [benefit] <br>
 
-Details and Assumptions
+### Details and Assumptions
 - [document what you know]
 
-Acceptance Criteria
+### Acceptance Criteria
 
 ```
 Given [some context]
